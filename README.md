@@ -22,7 +22,7 @@ A RESTful API for managing products in an e-commerce platform built with Node.js
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/umairahmadd99/ecommerce
    cd ecommerce
    ```
 
